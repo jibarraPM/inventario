@@ -50,7 +50,7 @@ function closePanel()
         </div>
         <div class="panel-value pull-right">
           <h2 class="margin-top"> <?php  echo $c_customers['total']; ?> </h2>
-          <p class="text-muted">Customers</p>
+          <p class="text-muted">Clientes</p>
         </div>
        </div>
     </div>
@@ -64,7 +64,7 @@ function closePanel()
         </div>
         <div class="panel-value pull-right">
           <h2 class="margin-top"> <?php  echo $c_categories['total']; ?> </h2>
-          <p class="text-muted">Categories</p>
+          <p class="text-muted">Categorias</p>
         </div>
        </div>
     </div>
@@ -78,7 +78,7 @@ function closePanel()
         </div>
         <div class="panel-value pull-right">
           <h2 class="margin-top"> <?php  echo $c_products['total']; ?> </h2>
-          <p class="text-muted">Products</p>
+          <p class="text-muted">Productos</p>
         </div>
        </div>
     </div>
@@ -92,7 +92,7 @@ function closePanel()
         </div>
         <div class="panel-value pull-right">
           <h2 class="margin-top"> <?php  echo $c_sales['total']; ?> </h2>
-          <p class="text-muted">Sales</p>
+          <p class="text-muted">Ventas</p>
         </div>
        </div>
     </div>
@@ -106,7 +106,7 @@ function closePanel()
         </div>
 
         <div class="jumbotron text-center">
-           <h3>Welcome!</h3>Contact support for additional assistance.
+           <h3>Biemvenido</h3>Comuníquese con el soporte para obtener ayuda adicional.
         </div>
 
       </div>
@@ -119,7 +119,7 @@ function closePanel()
        <div class="panel-heading">
          <strong>
            <span class="glyphicon glyphicon-th"></span>
-           <span>Highest Selling Products</span>
+           <span>Productos más Vendidos</span>
          </strong>
        </div>
 
@@ -128,9 +128,9 @@ function closePanel()
 
           <thead>
            <tr>
-             <th>Product</th>
-             <th>Total Sold</th>
-             <th>Total Quantity</th>
+           <th>Productos</th>
+             <th>Total Vendido</th>
+             <th>Cantidad Total</th>
            <tr>
           </thead>
 
@@ -159,7 +159,7 @@ function closePanel()
         <div class="panel-heading">
           <strong>
             <span class="glyphicon glyphicon-th"></span>
-            <span>LATEST SALES</span>
+            <span>Últimas Ventas</span>
           </strong>
         </div>
         <div class="panel-body">
@@ -167,9 +167,9 @@ function closePanel()
        <thead>
          <tr>
            <th class="text-center" style="width: 50px;">#</th>
-           <th>Product</th>
-           <th>Date</th>
-           <th>Total Sale</th>
+           <th>Producto</th>
+           <th>Fecha</th>
+           <th>Total Venta</th>
          </tr>
        </thead>
        <tbody>
@@ -202,7 +202,7 @@ function closePanel()
       <div class="panel-heading">
         <strong>
           <span class="glyphicon glyphicon-th"></span>
-          <span>Recently Added Products</span>
+          <span>Productos Agregados Recientemente</span>
         </strong>
       </div>
       <div class="panel-body">
