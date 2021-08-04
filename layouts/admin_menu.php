@@ -49,7 +49,7 @@
   <li>
     <a href="#" class="submenu-toggle">
       <i class="glyphicon glyphicon-signal"></i>
-       <span>Reports</span>
+       <span>Reportes</span>
       </a>
       <ul class="nav submenu">
         <li><a href="../reports/stock_report.php">Reporte de Stock</a></li>
